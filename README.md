@@ -95,13 +95,6 @@ streamlit run app.py
 
 ---
 
-## 🙋‍♀️ GSSoC Contributors
-
-We are part of **GirlScript Summer of Code 2025** 🌸  
-This project is beginner-friendly and has a dedicated mentor and admin team.
-
-Join the community, explore quantum, and build with us! 🚀  
-Let’s make QML accessible together.
 
 ---
 
