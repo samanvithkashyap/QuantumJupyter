@@ -4,7 +4,7 @@ Welcome to **QuantumJupyter** — a visual, modular, and interactive open-source
 Think of it as your **TensorBoard + Streamlit + Magic Commands** — but for **quantum circuits** ✨
 
 > 🎯 Built for researchers, students, and open-source explorers  
-> 🚀 GSSoC 2025 Project | Admin: [@silverballz](https://github.com/silverballz)
+> 🚀  Project | Admin: [@silverballz](https://github.com/silverballz)
 
 ---
 
